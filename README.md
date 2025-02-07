@@ -1,5 +1,6 @@
 # Lógica de Programação em Python
 Este projeto é um guia introdutório à lógica de programação utilizando **Python**. Ele aborda conceitos fundamentais, como estruturas de controle, manipulação de dados e boas práticas de desenvolvimento.
+
 Sinta-se livre para contribuir!
 
 
